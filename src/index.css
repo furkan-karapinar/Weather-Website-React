@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body
+{
+  @apply bg-gradient-to-b from-purple-600 to-purple-900
+}
